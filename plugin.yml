@@ -1,0 +1,84 @@
+name: HGMCCore
+version: 1.0
+main: me.FreakyPear5.HGMCCore.Main
+description: HGMC base commands.
+
+commands:
+    vote:
+        usage: /<command>
+    
+    rules:
+        usage: /<command>
+       
+    help:
+        usage: /<command>
+        
+    whatban:
+        usage: /<command>
+        
+    bug:
+        usage: /<command>
+        
+    discord:
+        usage: /<command>
+        
+    votelinks:
+        usage: /<command>
+        
+    howlong:
+        usage: /<command>
+        
+    howlong2:
+        usage: /<command>
+        
+    hgmccore:
+        usage: /<command>
+        
+    spigot:
+        usage: /<command>
+        
+    bungee:
+        usage: /<command>
+        
+    w:
+        usage: /<command>
+        
+    cmd:
+        usage: /<command>
+        
+    vip:
+        usage: /<command>
+        
+    staff:
+        usage: /<command>
+        
+    hi:
+        usage: /<command>
+        
+    shrug:
+        usage: /<command>
+        
+    tableflip:
+        usage: /<command>
+        
+    unflip:
+        usage: /<command>
+        
+    sudo:
+        usage: /<command>
+            
+    console:
+        usage: /<command>
+        
+    masssay:
+        usage: /<command>
+        
+    grant:
+        usage: /<command>
+        
+    vanish:
+        usage: /<command>
+        
+    buy:
+        usage: /<command>
+        
